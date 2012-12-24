@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Earthsong.tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"rulers":
+	[
+		80
+	],
+	"shift_tab_unindent": true,
+	"spell_check": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

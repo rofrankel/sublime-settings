@@ -1,0 +1,14 @@
+{
+    "quote_scope": "string",
+    "curly_scope": "entity.name.class",
+    "round_scope": "meta.function-call",
+    "square_scope": "constant.numeric",
+    "angle_scope": "entity.name.tag",
+    "tag_scope": "entity.name.tag",
+    "quote_style": "outline",
+    "curly_style": "outline",
+    "round_style": "outline",
+    "square_style": "outline",
+    "angle_style": "outline",
+    "tag_style": "outline"
+}
