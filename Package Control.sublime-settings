@@ -1,9 +1,11 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Dayle Rees Color Schemes",
+		"Djaneiro",
 		"Jimbly's Clipboard History",
 		"Jinja2",
 		"Package Control",
